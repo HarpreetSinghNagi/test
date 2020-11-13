@@ -1,0 +1,231 @@
+.demo-typo-col2,
+.demo-typo-col3,
+.demo-typo-col4 {
+  clear: both;
+  float: none;
+  padding-bottom: 20px;
+  width: 100%;
+}
+.item-body .the-icons > li {
+  width: 50%;
+}
+#gkHeaderNav {
+  position: relative !important;
+}
+#gkSidebar .box,
+#gkTop1 .box,
+#gkTop2 .box,
+#gkBottom1 .box,
+#gkBottom2 .box,
+#gkBottom3 .box,
+#gkBottom4 .box,
+#gkBottom5 .box {
+  clear: both !important;
+  width: 100%;
+}
+.gkCols3 .box,
+.gkCols4 .box,
+.gkCols6 .box {
+  margin-bottom: 20px !important;
+  width: 100%;
+}
+.gkCols3 .box:last-child,
+.gkCols4 .box:last-child,
+.gkCols6 .box:last-child {
+  margin-bottom: 0 !important;
+}
+.gkCols3 .box.banner img,
+.gkCols4 .box.banner img,
+.gkCols6 .box.banner img {
+  width: 100%;
+}
+.gkCols3 .box.gkmod-2 {
+  margin-bottom: 20px !important;
+  width: 100%;
+}
+.gkCols3 .box.gkmod-2:last-child {
+  margin-bottom: 0 !important;
+}
+#gkTop3.gkCols3 .box.gkmod-2 {
+  width: 100%;
+}
+#gkBottom2::before {
+  display: none;
+}
+#gkBottom2 .gkPageContent {
+  display: block;
+}
+#gkBottom2.gkCols3 .box.gkmod-2.boxs3,
+#gkBottom2.gkCols3 .box.gkmod-2.boxs8 {
+  margin-bottom: 20px !important;
+  width: 100%;
+  margin-left: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+.box .offset1.category-default {
+  margin-bottom: 0;
+}
+.box .offset1.category-default > br {
+  display: none;
+}
+.gk-modules-block .gk-clearfix > .box.big-title {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.gkBannerContentInner.span4.pull-right {
+  width: 100%;
+}
+.gkHeaderContent {
+  background: #3c3e3f;
+  position: static;
+}
+.gkHeaderContent a {
+  background: #81d4fa !important;
+}
+.gkHeaderContent a:active,
+.gkHeaderContent a:focus,
+.gkHeaderContent a:hover {
+  background: #636565 !important;
+}
+.gkPhotoOverlayContent {
+  position: static;
+  width: 100%;
+}
+.nspArt.nspCol4 {
+  width: 50%;
+}
+.nspArt.nspCol4:nth-child {
+  clear: both;
+}
+.gkIsWrapper-gk_stora figcaption h2 {
+  width: 90%;
+}
+.gk-cols > * {
+  float: left;
+  padding: 0 25px 25px 25px;
+}
+.gk-cols > .col-width-5,
+.gk-cols > .col-width-10,
+.gk-cols > .col-width-15,
+.gk-cols > .col-width-20,
+.gk-cols > .col-width-25,
+.gk-cols > .col-width-30,
+.gk-cols > .col-width-35,
+.gk-cols > .col-width-40,
+.gk-cols > .col-width-45,
+.gk-cols > .col-width-50 {
+  width: 50%;
+}
+.gk-cols > .col-width-55,
+.gk-cols > .col-width-60,
+.gk-cols > .col-width-65,
+.gk-cols > .col-width-70,
+.gk-cols > .col-width-75,
+.gk-cols > .col-width-80,
+.gk-cols > .col-width-85,
+.gk-cols > .col-width-90,
+.gk-cols > .col-width-95,
+.gk-cols > .col-width-100 {
+  width: 100%;
+}
+.gk-contact-info,
+.gk-social-icons {
+  text-align: center;
+  width: 100% !important;
+}
+#gk-menu-overlay-wrap .gkMainMenu {
+  margin: 0 auto;
+  width: 90%;
+}
+#gk-menu-overlay-wrap .gkMainMenu li li li a {
+  padding: 10px 0;
+}
+#gk-menu-overlay-wrap .gkMainMenu .gkmenu li li a {
+  padding-left: 15px;
+}
+#gk-menu-overlay-wrap .gkMainMenu .gkmenu li li li a {
+  padding-left: 30px;
+}
+#gk-menu-overlay-wrap .gkMainMenu .gkmenu li li li li a {
+  padding-left: 45px;
+}
+#gk-menu-overlay-wrap #gk-menu-overlay-close {
+  right: 5%;
+}
+.blog-page .item-list .item-view .item-title {
+  font-size: 3.6rem;
+}
+.controls span#fb-auth {
+  clear: both;
+  margin: 2rem 0 0 0;
+}
+.single-page > .item-content,
+.single-page > .itemComments {
+  width: 100%;
+}
+.single-page .item-title {
+  margin-top: 4rem;
+}
+.single-page .item-title {
+  font-size: 4.8rem;
+}
+.single-page .article-header-wrap.no-image .item-social-icons {
+  right: 50px;
+}
+.error-page h1 {
+  font-size: 100px;
+}
+div[class*="-view"] div.row {
+  flex-wrap: wrap;
+}
+.latest-view .vm-col-4,
+.featured-view .vm-col-4,
+.topten-view .vm-col-4,
+.recent-view .vm-col-4,
+.category-view .vm-col-4 {
+  width: 49.9%;
+}
+.contact .contact-info-column,
+.contact .contact-form-column {
+  margin: 0 0 3.6rem 0;
+  width: 100%;
+}
+.width10,
+.width15,
+.width20,
+.width25,
+.width30,
+.width35,
+.width40,
+.width45,
+.width50 {
+  width: 49.9%;
+}
+.latest-view h4,
+.featured-view h4,
+.topten-view h4,
+.recent-view h4 {
+  font-size: 3.5rem;
+}
+fieldset.userdata + .width30,
+fieldset.userdata + .width30 + .width30 {
+  margin-right: 0 !important;
+  padding-right: 2% !important;
+  width: 50% !important;
+}
+table th,
+tbody tr td {
+  font-size: 1.3rem;
+  padding: 0.5rem;
+}
+.cart-view .billto-shipto,
+.cart-view #com-form-login {
+  padding: 2rem 3rem;
+}
+#gkHeaderMod h2 {
+  font-size: 60px;
+}
+.gkIsWrapper-gk_stora .gkIsPagination {
+  bottom: 20px;
+}
